@@ -1,4 +1,5 @@
 <h3>Hi, I'm Andrew</h3>
+<p>My corner: https://upteran.github.io/istillearn/ </p>
 <p><span> 🚴🏼‍♀️ Software Developer</span> <span> 🤹🏻 Love front-end</span><span> 🤌🏼 Enjoy coding</span></p>
 
 <p><img align="center" src="https://github.com/upteran/upteran/blob/main/download_1_1.gif" alt="pezeze" height="300" width="auto" /></p>
